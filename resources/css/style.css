@@ -27,3 +27,10 @@ p {
   font-size: 21px;
   color: gray;
 }
+
+footer {
+  font-family: Verdana;
+  text-align: right;
+  color: gray;
+  font-size: 14px;
+}
